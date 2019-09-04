@@ -82,4 +82,5 @@ public class MaxTask extends RecursiveTask<Integer> {
         }
         return result;
     }
+
 }
